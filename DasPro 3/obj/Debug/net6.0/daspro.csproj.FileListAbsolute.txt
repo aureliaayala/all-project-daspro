@@ -1,0 +1,45 @@
+C:\Users\ACER\Desktop\daspro\bin\Debug\net6.0\daspro.exe
+C:\Users\ACER\Desktop\daspro\bin\Debug\net6.0\daspro.deps.json
+C:\Users\ACER\Desktop\daspro\bin\Debug\net6.0\daspro.runtimeconfig.json
+C:\Users\ACER\Desktop\daspro\bin\Debug\net6.0\daspro.dll
+C:\Users\ACER\Desktop\daspro\bin\Debug\net6.0\daspro.pdb
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\daspro.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\daspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\daspro.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\daspro.AssemblyInfo.cs
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\daspro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\daspro.dll
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\refint\daspro.dll
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\daspro.pdb
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\daspro.genruntimeconfig.cache
+C:\Users\ACER\Desktop\daspro\obj\Debug\net6.0\ref\daspro.dll
+D:\Aurel\Tugas\DasPro 3\bin\Debug\net6.0\daspro.exe
+D:\Aurel\Tugas\DasPro 3\bin\Debug\net6.0\daspro.deps.json
+D:\Aurel\Tugas\DasPro 3\bin\Debug\net6.0\daspro.runtimeconfig.json
+D:\Aurel\Tugas\DasPro 3\bin\Debug\net6.0\daspro.dll
+D:\Aurel\Tugas\DasPro 3\bin\Debug\net6.0\daspro.pdb
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\daspro.csproj.AssemblyReference.cache
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\daspro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\daspro.AssemblyInfoInputs.cache
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\daspro.AssemblyInfo.cs
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\daspro.csproj.CoreCompileInputs.cache
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\daspro.dll
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\refint\daspro.dll
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\daspro.pdb
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\daspro.genruntimeconfig.cache
+D:\Aurel\Tugas\DasPro 3\obj\Debug\net6.0\ref\daspro.dll
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\bin\Debug\net6.0\daspro.exe
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\bin\Debug\net6.0\daspro.deps.json
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\bin\Debug\net6.0\daspro.runtimeconfig.json
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\bin\Debug\net6.0\daspro.dll
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\bin\Debug\net6.0\daspro.pdb
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\daspro.csproj.AssemblyReference.cache
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\daspro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\daspro.AssemblyInfoInputs.cache
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\daspro.AssemblyInfo.cs
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\daspro.csproj.CoreCompileInputs.cache
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\daspro.dll
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\refint\daspro.dll
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\daspro.pdb
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\daspro.genruntimeconfig.cache
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro 3\obj\Debug\net6.0\ref\daspro.dll

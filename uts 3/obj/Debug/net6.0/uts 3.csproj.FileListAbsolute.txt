@@ -1,0 +1,30 @@
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\uts 3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\uts 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\uts 3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\uts 3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\uts 3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\uts 3\bin\Debug\net6.0\uts 3.exe
+C:\Users\ACER\Desktop\uts 3\bin\Debug\net6.0\uts 3.deps.json
+C:\Users\ACER\Desktop\uts 3\bin\Debug\net6.0\uts 3.runtimeconfig.json
+C:\Users\ACER\Desktop\uts 3\bin\Debug\net6.0\uts 3.dll
+C:\Users\ACER\Desktop\uts 3\bin\Debug\net6.0\uts 3.pdb
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\uts 3.dll
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\refint\uts 3.dll
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\uts 3.pdb
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\uts 3.genruntimeconfig.cache
+C:\Users\ACER\Desktop\uts 3\obj\Debug\net6.0\ref\uts 3.dll
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\bin\Debug\net6.0\uts 3.exe
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\bin\Debug\net6.0\uts 3.deps.json
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\bin\Debug\net6.0\uts 3.runtimeconfig.json
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\bin\Debug\net6.0\uts 3.dll
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\bin\Debug\net6.0\uts 3.pdb
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\uts 3.csproj.AssemblyReference.cache
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\uts 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\uts 3.AssemblyInfoInputs.cache
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\uts 3.AssemblyInfo.cs
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\uts 3.csproj.CoreCompileInputs.cache
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\uts 3.dll
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\refint\uts 3.dll
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\uts 3.pdb
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\uts 3.genruntimeconfig.cache
+D:\Aurel\Tugas\Dasar Pemrograman\uts 3\obj\Debug\net6.0\ref\uts 3.dll

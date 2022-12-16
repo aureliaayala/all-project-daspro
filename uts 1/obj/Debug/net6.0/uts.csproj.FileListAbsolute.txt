@@ -1,0 +1,30 @@
+C:\Users\ACER\Desktop\uts\bin\Debug\net6.0\uts.exe
+C:\Users\ACER\Desktop\uts\bin\Debug\net6.0\uts.deps.json
+C:\Users\ACER\Desktop\uts\bin\Debug\net6.0\uts.runtimeconfig.json
+C:\Users\ACER\Desktop\uts\bin\Debug\net6.0\uts.dll
+C:\Users\ACER\Desktop\uts\bin\Debug\net6.0\uts.pdb
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\uts.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\uts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\uts.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\uts.AssemblyInfo.cs
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\uts.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\uts.dll
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\refint\uts.dll
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\uts.pdb
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\uts.genruntimeconfig.cache
+C:\Users\ACER\Desktop\uts\obj\Debug\net6.0\ref\uts.dll
+C:\Users\ACER\Desktop\uts 1\bin\Debug\net6.0\uts.exe
+C:\Users\ACER\Desktop\uts 1\bin\Debug\net6.0\uts.deps.json
+C:\Users\ACER\Desktop\uts 1\bin\Debug\net6.0\uts.runtimeconfig.json
+C:\Users\ACER\Desktop\uts 1\bin\Debug\net6.0\uts.dll
+C:\Users\ACER\Desktop\uts 1\bin\Debug\net6.0\uts.pdb
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\uts.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\uts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\uts.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\uts.AssemblyInfo.cs
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\uts.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\uts.dll
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\refint\uts.dll
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\uts.pdb
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\uts.genruntimeconfig.cache
+C:\Users\ACER\Desktop\uts 1\obj\Debug\net6.0\ref\uts.dll

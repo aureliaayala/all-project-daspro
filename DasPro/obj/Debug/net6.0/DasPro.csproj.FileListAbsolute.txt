@@ -1,0 +1,30 @@
+C:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.exe
+C:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.deps.json
+C:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.runtimeconfig.json
+C:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.dll
+C:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.pdb
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfo.cs
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.dll
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\refint\DasPro.dll
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.pdb
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.genruntimeconfig.cache
+C:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\ref\DasPro.dll
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\DasPro.csproj.AssemblyReference.cache
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfoInputs.cache
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfo.cs
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\DasPro.csproj.CoreCompileInputs.cache
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\DasPro.dll
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\refint\DasPro.dll
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\DasPro.pdb
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\bin\Debug\net6.0\DasPro.exe
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\bin\Debug\net6.0\DasPro.deps.json
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\bin\Debug\net6.0\DasPro.runtimeconfig.json
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\bin\Debug\net6.0\DasPro.dll
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\bin\Debug\net6.0\DasPro.pdb
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\DasPro.genruntimeconfig.cache
+D:\Aurel\Tugas\Dasar Pemrograman\DasPro\obj\Debug\net6.0\ref\DasPro.dll

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Javascript</h1>
+        <p id="demo">Javascript membuat halaman web menjadi interaktif.</p>
+        <button type="button" onclick="changeText()">Coba klik!</button>
+        <script>
+            function changeText(){
+                var element = document.getElementById("demo");
+                element.innerHTML = "Berhasil! ini contoh implementasi Javascript";
+            }
+        </script>
+    </body>
+</html>
