@@ -1,0 +1,3 @@
+https://iguana-grape-4hpd.squarespace.com/config/
+
+pass: tugascms
